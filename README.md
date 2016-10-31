@@ -59,7 +59,7 @@ UIApplication.sharedApplication.delegate;
 
 ## Spacing
 
-* Indentation MUST use tabs. Never indent with tabs. Be sure to set this preference in Xcode.
+* Indentation MUST use tabs. Never indent with spaces. Be sure to set this preference in Xcode.
 * Method braces and other braces (`if`/`else`/`switch`/`while` etc.) MUST open on the next line as the statement. Braces MUST close on a new line.
 
 **For example:**
